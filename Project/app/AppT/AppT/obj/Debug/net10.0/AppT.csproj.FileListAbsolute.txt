@@ -1,0 +1,14 @@
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\bin\Debug\net10.0\AppT.exe
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\bin\Debug\net10.0\AppT.deps.json
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\bin\Debug\net10.0\AppT.runtimeconfig.json
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\bin\Debug\net10.0\AppT.dll
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\bin\Debug\net10.0\AppT.pdb
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.AssemblyInfoInputs.cache
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.AssemblyInfo.cs
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.csproj.CoreCompileInputs.cache
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.dll
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\refint\AppT.dll
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.pdb
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\AppT.genruntimeconfig.cache
+C:\Users\Dimisti\Documents\JetBrains Raider\Project\app\AppT\AppT\obj\Debug\net10.0\ref\AppT.dll
